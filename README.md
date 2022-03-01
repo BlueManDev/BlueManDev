@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @BlueManDev
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
-- 📫 How to reach me blueman1608@gmail.com
+# About Me
+I'm an Australian programmer who makes games.
+
+# Languages I use
+- Python
+- Lua
+- Javascript
+- C#
+- C++
+
+# Tools I use
+- Pygame
+- Ursina
+- LÖVE2D
+- Godot
+- Game Maker Studio 2
+
+# Follow Me
+- Youtube: (https://www.youtube.com/channel/UCyh7ECYSfGzhJZOU9DxockA)
 
 <!---
 BlueManDev/BlueManDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
