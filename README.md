@@ -4,16 +4,20 @@ I'm an Australian programmer who makes games.
 # Languages I use
 - Python
 - Lua
-- Javascript
+- Java
 - C#
 - C++
 
-# Tools I use
+# Engines / Frameworks I use
 - Pygame
 - Ursina
 - LÖVE2D
 - Godot
 - Game Maker Studio 2
+
+# IDE(s) I use
+- Visual Studio 2022 (Everything except for Java)
+- IntelliJ 2021.3 (Java)
 
 # Follow Me
 - Youtube: (https://www.youtube.com/channel/UCyh7ECYSfGzhJZOU9DxockA)
