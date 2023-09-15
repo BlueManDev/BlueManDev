@@ -2,24 +2,18 @@
 I'm an Australian programmer who makes games.
 
 # Languages I use
-- Python
 - Lua
-- Java
+- Javascript
 - C#
-- C++
 
 # Engines / Frameworks I use
-- Pygame
-- LÖVE2D
-- Unity
-- Game Maker Studio 2
+- OpenTK
+- LÖVE 2D
+- Clickteam Fusion 2.5+
 
 # IDE(s) I use
-- Visual Studio 2022 (Everything except for Java)
-- IntelliJ 2021.3 (Java)
-
-# Follow Me
-- Youtube: (https://www.youtube.com/channel/UCyh7ECYSfGzhJZOU9DxockA)
+- Visual Studio Community 2022 (C#)
+- Visual Studio Code (Lua and JS)
 
 <!---
 BlueManDev/BlueManDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
