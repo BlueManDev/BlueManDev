@@ -1,19 +1,17 @@
 # About Me
-I'm an Australian programmer who makes games.
+Australian Gamedev
 
 # Languages I use
-- Lua
-- Javascript
 - C#
+- Lua
 
 # Engines / Frameworks I use
+- Godot
 - OpenTK
 - LÖVE 2D
-- Clickteam Fusion 2.5+
 
-# IDE(s) I use
-- Visual Studio Community 2022 (C#)
-- Visual Studio Code (Lua and JS)
+# IDE I use
+- JetBrains Rider 
 
 <!---
 BlueManDev/BlueManDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
