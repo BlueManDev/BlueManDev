@@ -3,6 +3,7 @@ Australian Gamedev
 
 # Languages I use
 - C#
+- C
 - Lua
 
 # Engines / Frameworks I use
