@@ -2,17 +2,18 @@
 Australian Gamedev
 
 # Languages I use
+- Haxe
 - C#
 - C
-- Lua
 
 # Engines / Frameworks I use
 - Godot
-- OpenTK
-- LÖVE 2D
+- Monogame
+- Heaps.io
 
-# IDE I use
-- JetBrains Rider 
+# IDEs I use
+- Visual Studio 2022,
+- Visual Studio Code
 
 <!---
 BlueManDev/BlueManDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
