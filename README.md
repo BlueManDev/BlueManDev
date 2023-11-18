@@ -12,8 +12,8 @@ Australian Gamedev
 - SFML
 
 # IDEs I use
-- Visual Studio 2022,
-- Visual Studio Code
+- CLion
+- VS Code
 
 <!---
 BlueManDev/BlueManDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
