@@ -2,14 +2,14 @@
 Australian Gamedev
 
 # Languages I use
+- C/C++
 - Haxe
-- C#
-- C
+- 6502 ASM
 
 # Engines / Frameworks I use
 - Godot
-- Monogame
 - Heaps.io
+- SFML
 
 # IDEs I use
 - Visual Studio 2022,
