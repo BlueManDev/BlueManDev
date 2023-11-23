@@ -1,14 +1,14 @@
 # About Me
-Australian Gamedev
+15yo gamedev
 
 # Languages I use
 - C/C++
-- Haxe
+- x86 ASM
 - 6502 ASM
 
 # Engines / Frameworks I use
+- GameMaker Studio 2
 - Godot
-- Heaps.io
 - SFML
 
 # IDEs I use
