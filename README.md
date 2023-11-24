@@ -3,9 +3,7 @@
 
 # Languages I use
 - C/C++
-- x86 ASM
-- 6502 ASM
-- GBZ80 ASM
+- Assembly (x86, 6502, GBZ80)
 
 # Engines / Frameworks I use
 - GameMaker Studio 2
