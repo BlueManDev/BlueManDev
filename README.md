@@ -2,6 +2,7 @@
 15yo gamedev
 
 # Languages I use
+- C#
 - C/C++
 - Assembly (x64, 6502, GBZ80)
 
